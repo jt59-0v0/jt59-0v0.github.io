@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://jt59-0v0.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jt59-0v0.github.io/" rel="alternate" type="text/html" /><updated>2026-06-07T22:54:58+08:00</updated><id>https://jt59-0v0.github.io/feed.xml</id><title type="html">JT59 Garden</title><entry><title type="html">每日財經 - 2026.06.04</title><link href="https://jt59-0v0.github.io/finance/2026/06/04/final-report.html" rel="alternate" type="text/html" title="每日財經 - 2026.06.04" /><published>2026-06-04T21:55:00+08:00</published><updated>2026-06-04T21:55:00+08:00</updated><id>https://jt59-0v0.github.io/finance/2026/06/04/final-report</id><content type="html" xml:base="https://jt59-0v0.github.io/finance/2026/06/04/final-report.html"><![CDATA[<h1 id="每日財經---20260604">每日財經 - 2026.06.04</h1>
+
+<ul>
+  <li><strong>天氣：</strong> 小陣雨 🌦️</li>
+  <li><strong>氣溫：</strong> 27°C ~ 36°C</li>
+  <li><strong>月相：</strong> 虧凸月 🌖 (亮度 88%)</li>
+  <li><strong>月出沒：</strong> 22:00 / 07:56</li>
+</ul>
+
+<h3 id="-市場數據"># 市場數據</h3>
+
+<p><img src="/assets/images/2026/06/20260604-final-report.png" alt="財經報告概覽" /></p>
+
+<ul>
+  <li><strong>重要指數</strong></li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Ticker</th>
+      <th style="text-align: left">Close Price</th>
+      <th style="text-align: left">Change</th>
+      <th style="text-align: left">Change Pct</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">^DJI</td>
+      <td style="text-align: left">50,687.07</td>
+      <td style="text-align: left">-620.72</td>
+      <td style="text-align: left">-1.21%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">^GSPC</td>
+      <td style="text-align: left">7,553.68</td>
+      <td style="text-align: left">-56.10</td>
+      <td style="text-align: left">-0.74%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">^IXIC</td>
+      <td style="text-align: left">26,853.98</td>
+      <td style="text-align: left">-239.92</td>
+      <td style="text-align: left">-0.89%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">^SOX</td>
+      <td style="text-align: left">13,916.96</td>
+      <td style="text-align: left">190.69</td>
+      <td style="text-align: left">1.39%</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li><strong>全球前十大</strong></li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Ticker</th>
+      <th style="text-align: left">Close Price</th>
+      <th style="text-align: left">Change</th>
+      <th style="text-align: left">Change Pct</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">2222.SR</td>
+      <td style="text-align: left">27.24</td>
+      <td style="text-align: left">-0.02</td>
+      <td style="text-align: left">-0.07%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">NVDA</td>
+      <td style="text-align: left">214.75</td>
+      <td style="text-align: left">-8.07</td>
+      <td style="text-align: left">-3.62%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">AAPL</td>
+      <td style="text-align: left">310.26</td>
+      <td style="text-align: left">-4.94</td>
+      <td style="text-align: left">-1.57%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">GOOG</td>
+      <td style="text-align: left">355.68</td>
+      <td style="text-align: left">-2.71</td>
+      <td style="text-align: left">-0.76%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MSFT</td>
+      <td style="text-align: left">427.34</td>
+      <td style="text-align: left">-13.97</td>
+      <td style="text-align: left">-3.17%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">AMZN</td>
+      <td style="text-align: left">250.02</td>
+      <td style="text-align: left">-6.50</td>
+      <td style="text-align: left">-2.53%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">AVGO</td>
+      <td style="text-align: left">479.23</td>
+      <td style="text-align: left">-2.34</td>
+      <td style="text-align: left">-0.49%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">TSM</td>
+      <td style="text-align: left">436.69</td>
+      <td style="text-align: left">-10.00</td>
+      <td style="text-align: left">-2.24%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">TSLA</td>
+      <td style="text-align: left">423.70</td>
+      <td style="text-align: left">-0.04</td>
+      <td style="text-align: left">-0.01%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">META</td>
+      <td style="text-align: left">622.98</td>
+      <td style="text-align: left">25.35</td>
+      <td style="text-align: left">4.24%</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li><strong>熱門股</strong></li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Ticker</th>
+      <th style="text-align: left">Close Price</th>
+      <th style="text-align: left">Change</th>
+      <th style="text-align: left">Change Pct</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">NOK</td>
+      <td style="text-align: left">16.73</td>
+      <td style="text-align: left">-0.12</td>
+      <td style="text-align: left">-0.71%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">NVDA</td>
+      <td style="text-align: left">214.75</td>
+      <td style="text-align: left">-8.07</td>
+      <td style="text-align: left">-3.62%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">INTC</td>
+      <td style="text-align: left">112.71</td>
+      <td style="text-align: left">4.78</td>
+      <td style="text-align: left">4.43%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">NVTS</td>
+      <td style="text-align: left">30.84</td>
+      <td style="text-align: left">4.98</td>
+      <td style="text-align: left">19.26%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">NU</td>
+      <td style="text-align: left">11.64</td>
+      <td style="text-align: left">-0.29</td>
+      <td style="text-align: left">-2.43%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MU</td>
+      <td style="text-align: left">1,079.57</td>
+      <td style="text-align: left">15.47</td>
+      <td style="text-align: left">1.45%</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="-重點消息"># 重點消息</h3>
+
+<p>今日市場受地緣政治與AI產業動態雙重驅動，呈現劇烈波動。</p>
+
+<p><strong>地緣政治與總體經濟：</strong>
+美伊局勢持續緊張，伊朗退出談判的傳聞導致市場避險情緒升溫。美股主要指數從歷史高點回落，道瓊指數出現自三月以來最慘烈單日跌幅，下跌超過600點。受地緣風險影響，國際油價波動加劇，黃金需求因避險買盤走強。美國勞動力市場表現強勁，ADP就業數據優於預期，一度推升美債殖利率與美元，但隨後因中東和平談判前景不明而回落。此外，聯準會主席鮑爾警告，若官員因政策分歧遭撤換，將損害聯準會的信譽。</p>
+
+<p><strong>AI與科技板塊：</strong>
+儘管大盤回調，AI硬體需求依舊強勁。慧與科技（HPE）因AI伺服器訂單積壓創紀錄，財報表現亮眼，股價應聲暴漲。輝達（Nvidia）執行長黃仁勳在COMPUTEX期間的言論與動向持續引領市場風向，其對Marvell的看好帶動該公司股價跳空大漲。然而，市場也出現對AI過度支出的擔憂，Alphabet等科技巨頭面臨支出審視。與此同時，SpaceX的IPO傳聞與高估值目標（達1.75兆美元）成為市場焦點，但其籌資計劃也引發對現有投資策略衝擊的討論。</p>
+
+<p><strong>匯市與債市：</strong>
+日圓匯率一度跌至160大關，日本官員頻發口頭預警；日本央行行長植田和男表態將討論升息利弊，暗示六月可能採取行動。加密貨幣市場遭遇重挫，比特幣跌至67,000美元，創四月以來新低。ETF領域達成重大里程碑，先鋒集團（Vanguard）的S&amp;P 500 ETF（VOO）資產規模突破1兆美元，成為史上首檔規模破兆的ETF。</p>
+
+<p><strong>區域市場與貿易警訊：</strong>
+台股受美股回檔影響，收盤重挫781點，失守4萬6千點大關。更值得關注的是貿易風險，美國擬啟動301條款調查，對台灣進口商品加徵10%關稅，行政院已緊急應對並展開談判。同時，美國也擬針對強迫勞動問題，對巴西商品加徵額外關稅。中國方面，正啟動大規模西部開發計劃，聚焦再生能源與半導體產業園區。個別企業方面，Wix宣佈因AI轉型與匯率壓力裁員20%，而波克夏（Berkshire Hathaway）宣佈以68億美元併購建商Taylor Morrison。</p>
+
+<h3 id="-觀察方向"># 觀察方向</h3>
+
+<p>全球股市目前正處於高度波動期，主要受地緣政治緊張局勢升溫及人工智慧（AI）產業前景分歧的影響。美股主要指數（特別是道瓊工業指數）出現顯著回檔，反映出市場在面對美伊摩擦加劇及和平談判停滯時的廣泛避險情緒。這種地緣政治的不確定性推升了黃金等避險資產的需求，並導致國際油價劇烈波動。儘管美國勞動力市場數據依然強勁，但中東局勢的穩定性以及聯準會官員對政策誠信的立場分歧，仍使整體總體經濟前景顯得撲朔迷離。</p>
+
+<p>科技產業則呈現多空交雜的局面。雖然 AI 硬體需求（如慧與科技因伺服器訂單大增帶動的強勁業績）仍是成長主力，但市場對 Alphabet 等巨頭是否「AI 過度支出」的疑慮也開始浮現，暗示 AI 生態系的資本配置可能面臨重新評估。半導體產業趨勢亦有所分化：英特爾、美光與 Navitas 走強，而輝達與台積電等龍頭則出現下跌。</p>
+
+<p>匯市方面，日圓大幅貶值引發日本官員頻繁口頭干預，並暗示六月可能升息。加密貨幣市場亦明顯走弱，比特幣觸及數月低點。此外，區域市場面臨特定挑戰，台股因美股回檔及美國擬對台發起 301 條款調查而重挫。相較之下，中國正推動大規模西部開發計畫，聚焦綠能與半導體；而波克夏併購 Taylor Morrison 等大型企業併購案仍持續影響市場結構。整體而言，地緣政治風險、科技動能演變及貨幣政策調整，正交織成目前複雜的投資環境。</p>
+
+<hr />
+<ul>
+  <li><strong>本文由 AI 於 <code class="language-plaintext highlighter-rouge">2026-06-04 10:43</code> 生成，僅供參考</strong></li>
+  <li><strong>如遇休市，資料為前一交易日收盤數據</strong></li>
+  <li><strong><a href="https://github.com/jt59-0v0/finance-briefing/blob/main/%E6%AF%8F%E6%97%A5%E8%B2%A1%E7%B6%93%20-%202026.06.04.md">來源連結</a></strong></li>
+</ul>]]></content><author><name></name></author><category term="finance" /><category term="ai," /><category term="finance" /><summary type="html"><![CDATA[每日財經 - 2026.06.04]]></summary></entry><entry><title type="html">每日財經 - 2026.06.03</title><link href="https://jt59-0v0.github.io/finance/2026/06/03/final-report.html" rel="alternate" type="text/html" title="每日財經 - 2026.06.03" /><published>2026-06-03T21:55:00+08:00</published><updated>2026-06-03T21:55:00+08:00</updated><id>https://jt59-0v0.github.io/finance/2026/06/03/final-report</id><content type="html" xml:base="https://jt59-0v0.github.io/finance/2026/06/03/final-report.html"><![CDATA[<h1 id="每日財經---20260603">每日財經 - 2026.06.03</h1>
+
+<ul>
+  <li><strong>天氣：</strong> 晴時多雲 🌤️</li>
+  <li><strong>氣溫：</strong> 25°C ~ 35°C</li>
+  <li><strong>月相：</strong> 虧凸月 🌖 (亮度 94%)</li>
+  <li><strong>月出沒：</strong> 21:18 / 07:01</li>
+</ul>
+
+<h3 id="-市場數據"># 市場數據</h3>
+
+<p><img src="/assets/images/2026/06/20260603-final-report.png" alt="財經報告概覽" /></p>
+
+<ul>
+  <li><strong>重要指數</strong></li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Ticker</th>
+      <th style="text-align: left">Close Price</th>
+      <th style="text-align: left">Change</th>
+      <th style="text-align: left">Change Pct</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">^DJI</td>
+      <td style="text-align: left">51,307.79</td>
+      <td style="text-align: left">228.91</td>
+      <td style="text-align: left">0.45%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">^GSPC</td>
+      <td style="text-align: left">7,609.78</td>
+      <td style="text-align: left">9.82</td>
+      <td style="text-align: left">0.13%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">^IXIC</td>
+      <td style="text-align: left">27,093.90</td>
+      <td style="text-align: left">7.09</td>
+      <td style="text-align: left">0.03%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">^SOX</td>
+      <td style="text-align: left">13,726.27</td>
+      <td style="text-align: left">760.62</td>
+      <td style="text-align: left">5.87%</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li><strong>全球前十大</strong></li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Ticker</th>
+      <th style="text-align: left">Close Price</th>
+      <th style="text-align: left">Change</th>
+      <th style="text-align: left">Change Pct</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">2222.SR</td>
+      <td style="text-align: left">27.36</td>
+      <td style="text-align: left">-0.02</td>
+      <td style="text-align: left">-0.07%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">NVDA</td>
+      <td style="text-align: left">222.82</td>
+      <td style="text-align: left">-1.54</td>
+      <td style="text-align: left">-0.69%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">AAPL</td>
+      <td style="text-align: left">315.20</td>
+      <td style="text-align: left">8.89</td>
+      <td style="text-align: left">2.90%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MSFT</td>
+      <td style="text-align: left">441.31</td>
+      <td style="text-align: left">-19.21</td>
+      <td style="text-align: left">-4.17%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">GOOG</td>
+      <td style="text-align: left">358.39</td>
+      <td style="text-align: left">-14.19</td>
+      <td style="text-align: left">-3.81%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">AMZN</td>
+      <td style="text-align: left">256.52</td>
+      <td style="text-align: left">-4.74</td>
+      <td style="text-align: left">-1.81%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">TSM</td>
+      <td style="text-align: left">446.69</td>
+      <td style="text-align: left">11.06</td>
+      <td style="text-align: left">2.54%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">AVGO</td>
+      <td style="text-align: left">481.57</td>
+      <td style="text-align: left">21.60</td>
+      <td style="text-align: left">4.70%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">TSLA</td>
+      <td style="text-align: left">423.74</td>
+      <td style="text-align: left">7.86</td>
+      <td style="text-align: left">1.89%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">META</td>
+      <td style="text-align: left">597.63</td>
+      <td style="text-align: left">-2.84</td>
+      <td style="text-align: left">-0.47%</td>
+    </tr>
+  </tbody>
+</table>
+
+<ul>
+  <li><strong>熱門股</strong></li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Ticker</th>
+      <th style="text-align: left">Close Price</th>
+      <th style="text-align: left">Change</th>
+      <th style="text-align: left">Change Pct</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">NU</td>
+      <td style="text-align: left">11.93</td>
+      <td style="text-align: left">-1.06</td>
+      <td style="text-align: left">-8.16%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">NVDA</td>
+      <td style="text-align: left">222.82</td>
+      <td style="text-align: left">-1.54</td>
+      <td style="text-align: left">-0.69%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">HPE</td>
+      <td style="text-align: left">56.15</td>
+      <td style="text-align: left">9.15</td>
+      <td style="text-align: left">19.47%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">NOK</td>
+      <td style="text-align: left">16.85</td>
+      <td style="text-align: left">0.60</td>
+      <td style="text-align: left">3.69%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MRVL</td>
+      <td style="text-align: left">290.79</td>
+      <td style="text-align: left">71.36</td>
+      <td style="text-align: left">32.52%</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">MU</td>
+      <td style="text-align: left">1,064.10</td>
+      <td style="text-align: left">29.36</td>
+      <td style="text-align: left">2.84%</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="-重點消息"># 重點消息</h3>
+
+<ul>
+  <li><strong>全球股市與AI熱潮</strong>：美股標普500、那斯達克及日經225指數在AI動能推動下續創歷史新高。輝達（Nvidia）執行長黃仁勳於台北國際電腦展（Computex）期間引發旋風，與鴻海、和碩等台廠深化合作，帶動「物理AI」與「AI PC」供應鏈飆升。同時，Anthropic已秘密提交IPO申請，顯示AI估值競賽持續升級。</li>
+  <li><strong>地緣政治與貿易風險</strong>：中東局勢（美伊衝突）持續緊張，導致國際油價攀升，雖然目前被AI漲勢抵消，但仍是市場主要波動源。美國擬援引301條款，對全球60個經濟體加徵關稅，其中台灣面臨10%稅率，中日韓則高達12.5%，引發國際貿易不確定性。</li>
+  <li><strong>宏觀經濟指標</strong>：美債殖利率受地緣政治及宏觀數據影響震盪走低。數據顯示，美國勞工薪資占總收入比重降至51%的歷史新低，而企業利潤占比接近歷史高點。亞洲財富版圖變動，台灣受惠於半導體優勢，人均GDP已追平南韓。</li>
+  <li><strong>避險資產與數位貨幣</strong>：比特幣因機構拋售及資金轉向美股而跌破6.6萬美元，比特幣ETF出現年度最大週流出。避險需求方面，黃金作為央行儲備資產的地位已正式超越美債。</li>
+  <li><strong>重要企業動態</strong>：亞馬遜因員工濫用AI系統導致運算成本暴增，已關閉內部AI排名系統。台積電受台灣本地投資者追捧，ADR溢價快速縮減。SpaceX傳出以每股135美元進行新一輪750億美元融資。Intuit則因前景展望不佳，成為標普500指數年度表現最差個股。</li>
+</ul>
+
+<h3 id="-觀察方向"># 觀察方向</h3>
+
+<p>全球股市受AI熱潮強勁推動，標普500、那斯達克及日經225指數續創新高。輝達執行長黃仁勳在Computex期間強化與台廠合作，激勵「物理AI」與「AI PC」供應鏈飆升，Anthropic秘密IPO申請亦顯示AI估值競賽升級。半導體產業表現強勁，PHLX半導體指數大幅上漲，台積電（TSM）、美光（MU）、邁威爾科技（MRVL）和慧與科技（HPE）均有顯著漲幅，儘管輝達（NVDA）、微軟（MSFT）、谷歌（GOOG）、亞馬遜（AMZN）和Meta（META）等科技巨頭股價呈現漲跌互見的局面。亞馬遜因AI系統濫用導致成本激增而關閉內部AI排名系統，而Intuit則因前景不佳成為標普500表現最差個股。</p>
+
+<p>宏觀經濟方面，中東地緣政治緊張推升國際油價，儘管目前被AI漲勢抵銷，但仍是市場主要波動源。美國擬對多國徵收301關稅，包括台灣、中日韓，加劇全球貿易不確定性。美債殖利率受多重因素影響震盪走低，同時美國勞工薪資佔總收入比重降至歷史新低51%，企業利潤占比則接近歷史高點。亞洲財富版圖出現變動，台灣因半導體產業優勢，人均GDP已追平南韓。避險資產方面，比特幣因機構拋售及資金轉向美股而跌破6.6萬美元，比特幣ETF出現年度最大資金流出。黃金作為央行儲備資產的地位已正式超越美債，反映市場避險需求的轉變。</p>
+
+<hr />
+<ul>
+  <li><strong>本文由 AI 於 <code class="language-plaintext highlighter-rouge">2026-06-03 15:17</code> 生成，僅供參考</strong></li>
+  <li><strong>如遇休市，資料為前一交易日收盤數據</strong></li>
+  <li><strong><a href="https://github.com/jt59-0v0/finance-briefing/blob/main/%E6%AF%8F%E6%97%A5%E8%B2%A1%E7%B6%93%20-%202026.06.03.md">來源連結</a></strong></li>
+</ul>]]></content><author><name></name></author><category term="finance" /><category term="ai," /><category term="finance" /><summary type="html"><![CDATA[每日財經 - 2026.06.03]]></summary></entry></feed>
