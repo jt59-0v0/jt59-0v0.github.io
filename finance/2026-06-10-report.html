@@ -4,10 +4,52 @@
   <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>JT Cafo</title>
+  <title>每日財經 - 2026.06.10 | JT Cafo</title>
 <link rel="stylesheet" href="https://unpkg.com/@primer/css/dist/primer.css">
 <style>
 h1.title {color: #0366d6;}
+
+/* 讓表格寬度撐滿，並設定合併邊框 */
+table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  margin-top: 15px !important;
+  margin-bottom: 15px !important;
+  /* 確保外框線條被強制渲染 */
+  border: 0px solid #777777 !important;
+  border-style: solid !important;
+}
+
+/* 表頭與儲存格加上灰色隔線（修正核心：強制指定 border 樣式與寬度） */
+table th, table td {
+  border: 1px solid #777777 !important;
+  border-style: solid !important;
+  border-width: 1px !important;
+  padding: 8px 12px !important;
+}
+
+/* 選用：讓表頭有灰色背景，更有專業感 */
+table th {
+  background-color: #f5f5f5 !important;
+  font-weight: bold !important;
+}
+
+/* 選用：斑馬線效果（奇數行變色，閱讀更輕鬆） */
+table tr:nth-child(even) {
+  background-color: #fafafa !important;
+}
+
+hr {
+/* 核心：清除預設的立體陰影邊框 */
+  border: 0 !important; 
+  
+  /* 改用單實線（solid），顏色與粗細可自由微調 */
+  border-top: 1px solid #e5e5e5 !important; 
+  
+  /* 控制水平線與上下文字的間距（可依喜好微調） */
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+}
 </style>
 </head>
 <body>
@@ -26,43 +68,42 @@ h1.title {color: #0366d6;}
 <li><strong>今日忌：</strong> 諸事不宜</li>
 </ul>
 <h3 id="市場數據"># 市場數據</h3>
-<p><img src="/assets/images/finance/2026-06-10-report.png" alt="財經報告概覽" /></p>
 <ul>
 <li><strong>重要指數</strong></li>
 </ul>
 <table>
 <thead>
 <tr class="header">
-<th style="text-align: left;">Ticker</th>
-<th style="text-align: left;">Close Price</th>
-<th style="text-align: left;">Change</th>
-<th style="text-align: left;">Change Pct</th>
+<th style="text-align: right;">Ticker</th>
+<th style="text-align: center;">Close Price</th>
+<th style="text-align: center;">Change</th>
+<th style="text-align: center;">Change Pct</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">^DJI</td>
-<td style="text-align: left;">50,786.01</td>
-<td style="text-align: left;">86.10</td>
-<td style="text-align: left;">0.17</td>
+<td style="text-align: right;">^DJI</td>
+<td style="text-align: center;">50,786.01</td>
+<td style="text-align: center;">86.10</td>
+<td style="text-align: center;">0.17</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">^GSPC</td>
-<td style="text-align: left;">7,405.73</td>
-<td style="text-align: left;">-19.08</td>
-<td style="text-align: left;">-0.26</td>
+<td style="text-align: right;">^GSPC</td>
+<td style="text-align: center;">7,405.73</td>
+<td style="text-align: center;">-19.08</td>
+<td style="text-align: center;">-0.26</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">^IXIC</td>
-<td style="text-align: left;">25,929.66</td>
-<td style="text-align: left;">-250.84</td>
-<td style="text-align: left;">-0.97</td>
+<td style="text-align: right;">^IXIC</td>
+<td style="text-align: center;">25,929.66</td>
+<td style="text-align: center;">-250.84</td>
+<td style="text-align: center;">-0.97</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">^SOX</td>
-<td style="text-align: left;">12,906.69</td>
-<td style="text-align: left;">-248.88</td>
-<td style="text-align: left;">-1.93</td>
+<td style="text-align: right;">^SOX</td>
+<td style="text-align: center;">12,906.69</td>
+<td style="text-align: center;">-248.88</td>
+<td style="text-align: center;">-1.93</td>
 </tr>
 </tbody>
 </table>
@@ -72,72 +113,72 @@ h1.title {color: #0366d6;}
 <table>
 <thead>
 <tr class="header">
-<th style="text-align: left;">Ticker</th>
-<th style="text-align: left;">Close Price</th>
-<th style="text-align: left;">Change</th>
-<th style="text-align: left;">Change Pct</th>
+<th style="text-align: right;">Ticker</th>
+<th style="text-align: center;">Close Price</th>
+<th style="text-align: center;">Change</th>
+<th style="text-align: center;">Change Pct</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">2222.SR</td>
-<td style="text-align: left;">27.16</td>
-<td style="text-align: left;">0.00</td>
-<td style="text-align: left;">0.00</td>
+<td style="text-align: right;">2222.SR</td>
+<td style="text-align: center;">27.16</td>
+<td style="text-align: center;">0.00</td>
+<td style="text-align: center;">0.00</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">NVDA</td>
-<td style="text-align: left;">208.64</td>
-<td style="text-align: left;">-0.45</td>
-<td style="text-align: left;">-0.22</td>
+<td style="text-align: right;">NVDA</td>
+<td style="text-align: center;">208.64</td>
+<td style="text-align: center;">-0.45</td>
+<td style="text-align: center;">-0.22</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">GOOG</td>
-<td style="text-align: left;">361.17</td>
-<td style="text-align: left;">1.12</td>
-<td style="text-align: left;">0.31</td>
+<td style="text-align: right;">GOOG</td>
+<td style="text-align: center;">361.17</td>
+<td style="text-align: center;">1.12</td>
+<td style="text-align: center;">0.31</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">AAPL</td>
-<td style="text-align: left;">301.54</td>
-<td style="text-align: left;">-10.99</td>
-<td style="text-align: left;">-3.64</td>
+<td style="text-align: right;">AAPL</td>
+<td style="text-align: center;">301.54</td>
+<td style="text-align: center;">-10.99</td>
+<td style="text-align: center;">-3.64</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">MSFT</td>
-<td style="text-align: left;">411.74</td>
-<td style="text-align: left;">-8.33</td>
-<td style="text-align: left;">-2.02</td>
+<td style="text-align: right;">MSFT</td>
+<td style="text-align: center;">411.74</td>
+<td style="text-align: center;">-8.33</td>
+<td style="text-align: center;">-2.02</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">AMZN</td>
-<td style="text-align: left;">245.22</td>
-<td style="text-align: left;">-1.03</td>
-<td style="text-align: left;">-0.42</td>
+<td style="text-align: right;">AMZN</td>
+<td style="text-align: center;">245.22</td>
+<td style="text-align: center;">-1.03</td>
+<td style="text-align: center;">-0.42</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">TSM</td>
-<td style="text-align: left;">426.80</td>
-<td style="text-align: left;">1.09</td>
-<td style="text-align: left;">0.26</td>
+<td style="text-align: right;">TSM</td>
+<td style="text-align: center;">426.80</td>
+<td style="text-align: center;">1.09</td>
+<td style="text-align: center;">0.26</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">AVGO</td>
-<td style="text-align: left;">396.60</td>
-<td style="text-align: left;">-4.44</td>
-<td style="text-align: left;">-1.12</td>
+<td style="text-align: right;">AVGO</td>
+<td style="text-align: center;">396.60</td>
+<td style="text-align: center;">-4.44</td>
+<td style="text-align: center;">-1.12</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">TSLA</td>
-<td style="text-align: left;">408.95</td>
-<td style="text-align: left;">-12.27</td>
-<td style="text-align: left;">-3.00</td>
+<td style="text-align: right;">TSLA</td>
+<td style="text-align: center;">408.95</td>
+<td style="text-align: center;">-12.27</td>
+<td style="text-align: center;">-3.00</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">META</td>
-<td style="text-align: left;">585.39</td>
-<td style="text-align: left;">-0.80</td>
-<td style="text-align: left;">-0.14</td>
+<td style="text-align: right;">META</td>
+<td style="text-align: center;">585.39</td>
+<td style="text-align: center;">-0.80</td>
+<td style="text-align: center;">-0.14</td>
 </tr>
 </tbody>
 </table>
@@ -147,48 +188,48 @@ h1.title {color: #0366d6;}
 <table>
 <thead>
 <tr class="header">
-<th style="text-align: left;">Ticker</th>
-<th style="text-align: left;">Close Price</th>
-<th style="text-align: left;">Change</th>
-<th style="text-align: left;">Change Pct</th>
+<th style="text-align: right;">Ticker</th>
+<th style="text-align: center;">Close Price</th>
+<th style="text-align: center;">Change</th>
+<th style="text-align: center;">Change Pct</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">NVDA</td>
-<td style="text-align: left;">208.64</td>
-<td style="text-align: left;">-0.45</td>
-<td style="text-align: left;">-0.22</td>
+<td style="text-align: right;">NVDA</td>
+<td style="text-align: center;">208.64</td>
+<td style="text-align: center;">-0.45</td>
+<td style="text-align: center;">-0.22</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">NOK</td>
-<td style="text-align: left;">14.59</td>
-<td style="text-align: left;">-0.72</td>
-<td style="text-align: left;">-4.97</td>
+<td style="text-align: right;">NOK</td>
+<td style="text-align: center;">14.59</td>
+<td style="text-align: center;">-0.72</td>
+<td style="text-align: center;">-4.97</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">AAL</td>
-<td style="text-align: left;">13.60</td>
-<td style="text-align: left;">0.49</td>
-<td style="text-align: left;">3.60</td>
+<td style="text-align: right;">AAL</td>
+<td style="text-align: center;">13.60</td>
+<td style="text-align: center;">0.49</td>
+<td style="text-align: center;">3.60</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">INTC</td>
-<td style="text-align: left;">110.27</td>
-<td style="text-align: left;">-2.35</td>
-<td style="text-align: left;">-2.13</td>
+<td style="text-align: right;">INTC</td>
+<td style="text-align: center;">110.27</td>
+<td style="text-align: center;">-2.35</td>
+<td style="text-align: center;">-2.13</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">KEEL</td>
-<td style="text-align: left;">5.66</td>
-<td style="text-align: left;">-0.24</td>
-<td style="text-align: left;">-4.24</td>
+<td style="text-align: right;">KEEL</td>
+<td style="text-align: center;">5.66</td>
+<td style="text-align: center;">-0.24</td>
+<td style="text-align: center;">-4.24</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">MU</td>
-<td style="text-align: left;">949.28</td>
-<td style="text-align: left;">-13.39</td>
-<td style="text-align: left;">-1.41</td>
+<td style="text-align: right;">MU</td>
+<td style="text-align: center;">949.28</td>
+<td style="text-align: center;">-13.39</td>
+<td style="text-align: center;">-1.41</td>
 </tr>
 </tbody>
 </table>
